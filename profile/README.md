@@ -1,12 +1,19 @@
-## Hi there 👋
+# Proyecto en NestJs
 
-<!--
+Este repositorio contiene un microservicio desarrollado en NestJS para la gestión de productos, como parte de una arquitectura de microservicios.
 
-**Here are some ideas to get you started:**
+## Descripción
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Este microservicio proporciona funcionalidades para la creación, lectura, actualización y eliminación de productos, ordenes, implementando metodo de pago con Stripe. Utiliza una arquitectura basada en Microservicios con NestJS, que es un framework de Node.js para la construcción de aplicaciones eficientes y escalables en el lado del servidor.
+
+## Prerrequisitos
+
+Antes de comenzar, asegúrate de tener instalado en tu equipo:
+
+- Node.js y npm: Descargar e instalar Node.js
+- Docker (opcional, para ejecutar la base de datos en contenedor): Descargar e instalar Docker
+- PostgreSQL (opcional, para ejecutar la base de datos localmente): Descargar e instalar PostgreSQL
+
+## Configuración
+
+Proximamente... xd!
